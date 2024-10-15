@@ -1,1 +1,1 @@
-## This is Basic CI/CD App  
+## This is Basic CI/CD App.
